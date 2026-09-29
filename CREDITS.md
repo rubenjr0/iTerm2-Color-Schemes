@@ -626,3 +626,5 @@ The Rhoads Concord theme was created by Mark Badolato.
 The Rhoads RR Black theme was created by Mark Badolato.
 The Rhoads LP theme was created by Mark Badolato.
 The Clockwork Gold theme was created by [Clockwork](https://www.clockwork.com), from [ClockworkNet/clockwork-gold](https://github.com/ClockworkNet/clockwork-gold). The palette is human-designed; the YAML source was converted from its Ghostty theme with AI assistance.
+
+The Helium theme was created by [Raymond K. Zhao](https://www.raykzhao.phd/), based on Solarized, Selenized and OKSolar. Ported to iTerm2-Color-Schemes by [rubenjr0](https://github.com/rubenjr0/)
