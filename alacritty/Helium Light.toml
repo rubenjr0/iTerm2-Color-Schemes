@@ -1,0 +1,33 @@
+# Colors (Helium Light)
+
+[colors.bright]
+black = '#9caaaf'
+blue = '#3282e2'
+cyan = '#00988b'
+green = '#559600'
+magenta = '#c74e97'
+red = '#e13e3b'
+white = '#5a676b'
+yellow = '#a27d00'
+
+[colors.cursor]
+cursor = '#707d82'
+text = '#fef6df'
+
+[colors.normal]
+black = '#f1e9d2'
+blue = '#3282e2'
+cyan = '#00988b'
+green = '#559600'
+magenta = '#c74e97'
+red = '#e13e3b'
+white = '#707d82'
+yellow = '#a27d00'
+
+[colors.primary]
+background = '#fef6df'
+foreground = '#707d82'
+
+[colors.selection]
+background = '#f1e9d2'
+text = '#00988b'

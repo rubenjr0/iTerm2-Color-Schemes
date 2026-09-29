@@ -1,0 +1,43 @@
+!
+! Helium Light
+!
+*.foreground:  #707d82
+*.background:  #fef6df
+*.cursorColor: #707d82
+!
+! Black
+*.color0:      #f1e9d2
+*.color8:      #9caaaf
+!
+! Red
+*.color1:      #e13e3b
+*.color9:      #e13e3b
+!
+! Green
+*.color2:      #559600
+*.color10:     #559600
+!
+! Yellow
+*.color3:      #a27d00
+*.color11:     #a27d00
+!
+! Blue
+*.color4:      #3282e2
+*.color12:     #3282e2
+!
+! Magenta
+*.color5:      #c74e97
+*.color13:     #c74e97
+!
+! Cyan
+*.color6:      #00988b
+*.color14:     #00988b
+!
+! White
+*.color7:      #707d82
+*.color15:     #5a676b
+!
+! Bold, Italic, Underline
+*.colorBD:     #707d82
+!*.colorIT:
+!*.colorUL:

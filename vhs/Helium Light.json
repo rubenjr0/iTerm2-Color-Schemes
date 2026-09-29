@@ -1,0 +1,23 @@
+{
+  "name": "Helium Light",
+  "black": "#f1e9d2",
+  "red": "#e13e3b",
+  "green": "#559600",
+  "yellow": "#a27d00",
+  "blue": "#3282e2",
+  "purple": "#c74e97",
+  "cyan": "#00988b",
+  "white": "#707d82",
+  "brightBlack": "#9caaaf",
+  "brightRed": "#e13e3b",
+  "brightGreen": "#559600",
+  "brightYellow": "#a27d00",
+  "brightBlue": "#3282e2",
+  "brightPurple": "#c74e97",
+  "brightCyan": "#00988b",
+  "brightWhite": "#5a676b",
+  "background": "#fef6df",
+  "foreground": "#707d82",
+  "cursor": "#707d82",
+  "selection": "#f1e9d2"
+}

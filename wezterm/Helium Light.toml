@@ -1,0 +1,12 @@
+# Helium Light
+[colors]
+foreground = "#707d82"
+background = "#fef6df"
+cursor_bg = "#707d82"
+cursor_border = "#707d82"
+cursor_fg = "#fef6df"
+selection_bg = "#f1e9d2"
+selection_fg = "#00988b"
+
+ansi = ["#f1e9d2","#e13e3b","#559600","#a27d00","#3282e2","#c74e97","#00988b","#707d82"]
+brights = ["#9caaaf","#e13e3b","#559600","#a27d00","#3282e2","#c74e97","#00988b","#5a676b"]

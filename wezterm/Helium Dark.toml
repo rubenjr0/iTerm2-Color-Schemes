@@ -1,0 +1,12 @@
+# Helium Dark
+[colors]
+foreground = "#98a7a8"
+background = "#002d38"
+cursor_bg = "#98a7a8"
+cursor_border = "#98a7a8"
+cursor_fg = "#002d38"
+selection_bg = "#0d3844"
+selection_fg = "#20b2a4"
+
+ansi = ["#0d3844","#ef4c47","#60a319","#b08800","#3f8eef","#d55aa4","#00a497","#98a7a8"]
+brights = ["#677575","#ff5b54","#6eb12e","#be9600","#4d9cff","#e468b1","#20b2a4","#b4c3c4"]

@@ -1,0 +1,33 @@
+# Colors (Helium Dark)
+
+[colors.bright]
+black = '#677575'
+blue = '#4d9cff'
+cyan = '#20b2a4'
+green = '#6eb12e'
+magenta = '#e468b1'
+red = '#ff5b54'
+white = '#b4c3c4'
+yellow = '#be9600'
+
+[colors.cursor]
+cursor = '#98a7a8'
+text = '#002d38'
+
+[colors.normal]
+black = '#0d3844'
+blue = '#3f8eef'
+cyan = '#00a497'
+green = '#60a319'
+magenta = '#d55aa4'
+red = '#ef4c47'
+white = '#98a7a8'
+yellow = '#b08800'
+
+[colors.primary]
+background = '#002d38'
+foreground = '#98a7a8'
+
+[colors.selection]
+background = '#0d3844'
+text = '#20b2a4'
